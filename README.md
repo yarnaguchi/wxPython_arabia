@@ -1,0 +1,2 @@
+# wxPython_arabia
+pythonのwxPythonを利用した漢数字⇒アラビア数字変換テストツール

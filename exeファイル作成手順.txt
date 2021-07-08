@@ -1,0 +1,3 @@
+exeファイル作成手順
+・仮想環境に入る(venv\Scripts\activate)
+・pyinstaller main.spec --onefile --clean
