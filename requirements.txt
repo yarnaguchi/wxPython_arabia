@@ -1,5 +1,5 @@
 altgraph==0.17
-future==0.18.2
+future==0.18.3
 importlib-metadata==4.6.1
 numpy==1.19.5
 pefile==2021.5.24
